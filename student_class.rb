@@ -1,6 +1,6 @@
 class Student < Person
-  attr_accessor :classroom
   attr_reader :classroom
+
   def initialize(classroom)
     super(20)
     @classroom = classroom
