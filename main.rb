@@ -88,7 +88,6 @@ class App
     else
       puts 'Please enter a valid option'
     end
-
   end
 
   def create_student
