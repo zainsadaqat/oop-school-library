@@ -9,6 +9,15 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 - Save records of who borrowed a given book and when.
 - And all of this will be built in a beautiful and well-organized way!
 
+
+## Setup project locallay
+
+Open your terminal or command prompt and paste the following commands:
+
+`git clone git@github.com:zainsadaqat/oop-school-library.git`
+
+`cd oop-school-library.git`
+
 ## Built With
 
 - Ruby
