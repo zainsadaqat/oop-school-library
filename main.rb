@@ -81,13 +81,14 @@ class App
     case option
     when '1'
       create_student
+      puts "\nStudent Successfully created!\n"
     when '2'
       create_teacher
+      puts "\nTeacher Successfully created!\n"
     else
       puts 'Please enter a valid option'
     end
-    person = option == '1' ? 'Student' : 'Teacher'
-    puts "#{person} successfully created!"
+
   end
 
   def create_student
