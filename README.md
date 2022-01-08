@@ -21,7 +21,7 @@ Open your terminal or command prompt and paste the following commands:
 ## Built With
 
 - Ruby
-- Object Orient Programming
+- Object Oriented Programming
 
 ## Author
 
