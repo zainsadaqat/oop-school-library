@@ -2,11 +2,21 @@
 
 # OOP School Library
 
-> One paragraph statement about the project.
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow a you to:
 
-![screenshot](./app_screenshot.png)
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a given book and when.
+- And all of this will be built in a beautiful and well-organized way!
 
-Additional description about the project and its features.
+
+## Setup project locallay
+
+Open your terminal or command prompt and paste the following commands:
+
+`git clone git@github.com:zainsadaqat/oop-school-library.git`
+
+`cd oop-school-library.git`
 
 ## Built With
 
@@ -17,9 +27,9 @@ Additional description about the project and its features.
 
 👤 **Zain Sadaqat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zainsadaqat](https://github.com/zainsadaqat)
+- Twitter: [@zain_sadaqat](https://twitter.com/zain_sadaqat)
+- LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
 
 ## 🤝 Contributing
 
