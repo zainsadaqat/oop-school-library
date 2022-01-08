@@ -1,7 +1,7 @@
 class Student < Person
   attr_reader :classroom
 
-  def initialize(name: "Unknown", age, parent_permission: true, classroom: 'None')
+  def initialize(name: 'Unknown', age: 0, parent_permission: true, classroom: 'None')
     super(age: age, name: name, parent_permission: parent_permission)
     @classroom = classroom
   end
