@@ -2,24 +2,19 @@
 
 # OOP School Library
 
-> One paragraph statement about the project.
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow a you to:
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a given book and when.
+- And all of this will be built in a beautiful and well-organized way!
 
 ## Built With
 
 - Ruby
 - Object Orient Programming
 
-## Author
 
-👤 **Zain Sadaqat**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
