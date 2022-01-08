@@ -14,7 +14,13 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 - Ruby
 - Object Orient Programming
 
+## Author
 
+👤 **Zain Sadaqat**
+
+- GitHub: [@zainsadaqat](https://github.com/zainsadaqat)
+- Twitter: [@zain_sadaqat](https://twitter.com/zain_sadaqat)
+- LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
 
 ## 🤝 Contributing
 
